@@ -1,6 +1,5 @@
-package javaapplication9;
 
-public class JavaApplication9 {
+public class ex1 {
 
     public static void main(String[] args) {
    
