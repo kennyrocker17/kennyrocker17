@@ -26,7 +26,7 @@ public class AudioCenter {
         System.out.println("Hello! Please, select storage: CD, USB, CC.");
         System.out.println("If you want to add storage, please enter NEW INPUT");
         System.out.println("If you want to find out info, please enter INFO ");
-        System.out.println("If you want to remove storage, enter insert REMOVE ");
+        System.out.println("If you want to remove storage, enter REMOVE ");
         System.out.println("If you want to turn off AudioCenter, enter insert STOP ");
           Scanner in = new Scanner(System.in);
           String whatsNext = in.nextLine();
